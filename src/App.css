@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.SearchBar {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.RecipeList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.RecipeItem {
+  margin: 10px;
+}
